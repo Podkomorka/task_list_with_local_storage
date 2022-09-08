@@ -1,10 +1,3 @@
-// Real quick Materialize notes
-// ul needs class "collection"
-// li needs class "collection-item"
-// li children to be on the far right need "secondary-item"
-
-
-
 // Define UI Vars
 const form = document.querySelector('#task-form');
 const taskList = document.querySelector('.collection');
