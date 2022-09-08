@@ -3,4 +3,4 @@ A simple task list that utilizes local storage. Improved upon from Modern JavaSc
 
 Preview app here:
 
-https://bespoke-tarsier-fad73a.netlify.app/
+[https://bespoke-tarsier-fad73a.netlify.app/](https://task-list-with-local-storage.netlify.app)
